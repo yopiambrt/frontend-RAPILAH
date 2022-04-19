@@ -1,0 +1,28 @@
+.footer {
+    background-color: transparent;
+    padding: 0 !important;
+}
+
+.text-muted {
+    color: #7c8db5 !important;
+}
+
+.text-left {
+    text-align: left !important;
+}
+
+.card {
+    box-shadow: none !important;
+    border: none !important;
+}
+
+@media (min-width: 768px){
+    p {
+        color: #7c8db5
+    }
+}
+@media (min-width: 992px) {
+    p {
+        color: #7c8db5
+    }
+}
